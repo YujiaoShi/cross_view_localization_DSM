@@ -112,5 +112,5 @@ for img in images:
 
     start = int(832 / 4)
     image = signal[start: start + int(832 / 2), :, :]
-    image = cv2.resize(image, (616, 112), interpolation=cv2.INTER_AREA)
+    image = cv2.resize(image, (512, 128), interpolation=cv2.INTER_AREA)
     imsave(output_dir + img.replace('.jpg', '.png'), image)
