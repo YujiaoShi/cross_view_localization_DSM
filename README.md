@@ -16,7 +16,7 @@ by a factor of  $3.3\times$ for panoramas with unknown orientation, and by a fac
 ### Experiment Dataset
 We use two existing dataset to do the experiments
 
-- CVUSA datset: a dataset in America, with pairs of ground-level images and satellite images. All ground-level images are panoramic images.  
+- CVUSA dataset: a dataset in America, with pairs of ground-level images and satellite images. All ground-level images are panoramic images.  
 	The dataset can be accessed from https://github.com/viibridges/crossnet
 
 - CVACT dataset: a dataset in Australia, with pairs of ground-level images and satellite images. All ground-level images are panoramic images.  
